@@ -1,0 +1,11 @@
+Model Information:
+* title:	Angler fish (underwater creatures)
+* source:	https://sketchfab.com/3d-models/angler-fish-underwater-creatures-b5d461ca58ba4924aeeb7b3a7a036d55
+* author:	javaad Ghasemian (https://sketchfab.com/Javaad.Ghasemian)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Angler fish (underwater creatures)" (https://sketchfab.com/3d-models/angler-fish-underwater-creatures-b5d461ca58ba4924aeeb7b3a7a036d55) by javaad Ghasemian (https://sketchfab.com/Javaad.Ghasemian) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
